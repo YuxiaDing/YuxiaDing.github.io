@@ -80,7 +80,7 @@ skills:
         percent: 70
         icon: file-code
         icon_pack: fas
- - name: Languages
+  - name: Languages
     items:
       - name: English
         description: 'TOFEL: 102 (R:29, L:21, S:27, W:25), CET-6: 569. Strong academic reading and writing skills.'
@@ -92,7 +92,7 @@ skills:
         percent: 100
         icon: yin-yang
         icon_pack: fas
- - name: Hobbies
+  - name: Hobbies
     items:
       - name: Basketball
         description: ''
