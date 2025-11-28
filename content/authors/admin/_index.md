@@ -49,7 +49,7 @@ education:
   - area: BS in Statistics
     institution: University of Science and Technology of China
     icon: ""
-    date_start: 2023-09
+    date_start: '2023-09-01'
     summary: |
       GPA: 3.56/4.3
       Main Course: Probability Theory, Mathematical Analysis, Linear Algebra, Mathematical Statistics, Real Analysis
