@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Yuxia Ding
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Yuxia
+last_name: Ding
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,150 +23,92 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: 3rd-year undergraduate student at University of Science and Technology of China (USTC) majoring in statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Science and Technology of China
+    url: https://www.ustc.edu.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:yuxiading74@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://github.com/YuxiaDing
 
 interests:
-  - Large Language Models
-  - Computer Vision
+  - Linear Regression
+  - Convex Optimization
   - Reinforcement Learning
-  - AI Ethics
+  - Statistics in AI
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: BS in Statistics
+    institution: University of Science and Technology of China
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2023-09
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      GPA: 3.56/4.3
+      Main Course: Probability Theory, Mathematical Analysis, Linear Algebra, Mathematical Statistics, Real Analysis
+      Awards: Outstanding Student Scholarship (Gold Award), USTC
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
+      - name: Python
+        description: 'Proficient in data processing, visualization, and modeling using libraries like Pandas, Matplotlib, Seaborn, and Scikit-learn.'
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: python
+        icon_back: fab
+      - name: R Language
+        description: 'Experienced in efficient data cleaning and exploratory data analysis (EDA) with packages such as dplyr, data.table, and ggplot2.'
+        percent: 85
+        icon: r-project
+        icon_pack: fab
+      - name: Data Analysis & Machine Learning
+        description: 'Solid project experience in data preprocessing, feature engineering, model building (e.g., Logistic Regression), and evaluation.'
+        percent: 85
+        icon: chart-bar
+        icon_pack: fas
+      - name: C & LaTeX
         description: ''
         percent: 70
-        icon: book-open
-
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+        icon: file-code
+        icon_pack: fas
+ - name: Languages
+    items:
+      - name: English
+        description: 'TOFEL: 102 (R:29, L:21, S:27, W:25), CET-6: 569. Strong academic reading and writing skills.'
+        percent: 90
+        icon: language
+        icon_pack: fas
+      - name: Chinese
+        description: 'Native Speaker'
+        percent: 100
+        icon: yin-yang
+        icon_pack: fas
+ - name: Hobbies
+    items:
+      - name: Basketball
+        description: ''
+        percent: 90
+        icon: basketball-ball
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera-retro
+        icon_pack: fas
+      - name: Running
+        description: ''
+        percent: 85
+        icon: running
+        icon_pack: fas
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Yuxia Ding is a third-year undergraduate student at the University of Science and Technology of China (USTC), majoring in Statistics. He possesses a strong passion for machine learning and data analysis, with hands-on project experience in building predictive models and developing evaluation frameworks for Large Language Models (LLMs). Eager to leverage his quantitative skills to solve real-world problems, Yuxia is dedicated to exploring the intersection of Statistics and artificial intelligence. Outside of his academic pursuits, he is an avid basketball player and photographer.
