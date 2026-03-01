@@ -41,7 +41,7 @@ profiles:
 
 interests:
   - Linear Regression
-  - Convex Optimization
+  - High-dimensional statistics
   - Reinforcement Learning
   - Statistics in AI
 
