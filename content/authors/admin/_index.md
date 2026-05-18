@@ -84,46 +84,42 @@ skills:
       - name: Python
         description: 'Proficient in data processing, visualization, and statistical modeling using Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.'
         percent: 90
-        icon: python
-        icon_pack: fab
 
       - name: R Language
         description: 'Experienced in data cleaning, exploratory data analysis, statistical modeling, and visualization with packages such as dplyr, data.table, and ggplot2.'
         percent: 85
-        icon: r-project
-        icon_pack: fab
 
       - name: Data Analysis & Machine Learning
         description: 'Project experience in data preprocessing, feature engineering, classification, logistic regression, time series analysis, and model evaluation.'
         percent: 85
-        icon: chart-line
-        icon_pack: fas
 
       - name: C & LaTeX
         description: 'Familiar with basic programming in C and academic writing using LaTeX.'
-        percent: 75
-        icon: file-code
-        icon_pack: fas
+        percent: 70
+
+  - name: Language Scores
+    items:
+      - name: English
+        description: 'TOEFL iBT: 102 (Reading 29, Listening 21, Speaking 27, Writing 25); CET-6: 569.'
+        percent: 90
+
+      - name: Chinese
+        description: 'Native speaker.'
+        percent: 100
 
   - name: Hobbies
     items:
       - name: Basketball
         description: ''
         percent: 90
-        icon: basketball
-        icon_pack: fas
 
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
-        icon_pack: fas
 
       - name: Running
         description: ''
         percent: 85
-        icon: person-running
-        icon_pack: fas
 
 awards:
   - title: Outstanding Student Scholarship (Gold Award)
@@ -156,12 +152,6 @@ awards:
     icon: award
     summary: Provincial First Prize.
 
-languages:
-  - name: Chinese
-    percent: 100
-
-  - name: English
-    percent: 85
 ---
 
 I am a third-year undergraduate student at the University of Science and Technology of China (USTC), majoring in Statistics. I possess a strong passion for machine learning and data analysis, with hands-on project experience in building predictive models and developing evaluation frameworks for Large Language Models (LLMs). Eager to leverage my quantitative skills to solve real-world problems, I am dedicated to exploring the intersection of Statistics and artificial intelligence. Outside of my academic pursuits, I am also an avid basketball player and photographer.
