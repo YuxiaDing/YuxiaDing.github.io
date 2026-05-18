@@ -82,54 +82,86 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: 'Proficient in data processing, visualization, and modeling using libraries like Pandas, Matplotlib, Seaborn, and Scikit-learn.'
+        description: 'Proficient in data processing, visualization, and statistical modeling using Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.'
         percent: 90
         icon: python
-        icon_back: fab
+        icon_pack: fab
+
       - name: R Language
-        description: 'Experienced in efficient data cleaning and exploratory data analysis (EDA) with packages such as dplyr, data.table, and ggplot2.'
+        description: 'Experienced in data cleaning, exploratory data analysis, statistical modeling, and visualization with packages such as dplyr, data.table, and ggplot2.'
         percent: 85
         icon: r-project
         icon_pack: fab
+
       - name: Data Analysis & Machine Learning
-        description: 'Solid project experience in data preprocessing, feature engineering, model building (e.g., Logistic Regression), and evaluation.'
+        description: 'Project experience in data preprocessing, feature engineering, classification, logistic regression, time series analysis, and model evaluation.'
         percent: 85
-        icon: chart-bar
+        icon: chart-line
         icon_pack: fas
+
       - name: C & LaTeX
-        description: ''
-        percent: 70
+        description: 'Familiar with basic programming in C and academic writing using LaTeX.'
+        percent: 75
         icon: file-code
         icon_pack: fas
-  - name: Languages
-    items:
-      - name: English
-        description: 'TOFEL: 102 (R:29, L:21, S:27, W:25), CET-6: 569. Strong academic reading and writing skills.'
-        percent: 90
-        icon: language
-        icon_pack: fas
-      - name: Chinese
-        description: 'Native Speaker'
-        percent: 100
-        icon: yin-yang
-        icon_pack: fas
+
   - name: Hobbies
     items:
       - name: Basketball
         description: ''
         percent: 90
-        icon: basketball-ball
+        icon: basketball
         icon_pack: fas
+
       - name: Photography
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: camera
         icon_pack: fas
+
       - name: Running
         description: ''
         percent: 85
-        icon: running
+        icon: person-running
         icon_pack: fas
+
+awards:
+  - title: Outstanding Student Scholarship (Gold Award)
+    date: '2024-12-01'
+    awarder: University of Science and Technology of China
+    icon: award
+    summary: Awarded for academic performance and comprehensive excellence.
+
+  - title: Freshman Scholarship
+    date: '2023-12-01'
+    awarder: University of Science and Technology of China
+    icon: award
+    summary: Awarded to outstanding first-year students.
+
+  - title: Outstanding Student Association Leader
+    date: '2025-06-01'
+    awarder: University of Science and Technology of China
+    icon: award
+    summary: Awarded for leadership and contribution to student association activities.
+
+  - title: Chinese Mathematics Competitions for College Students, Provincial Second Prize
+    date: '2024-12-01'
+    awarder: Chinese Mathematics Competitions for College Students
+    icon: award
+    summary: Provincial Second Prize.
+
+  - title: National Mathematical Olympiad in Senior High School, Provincial First Prize
+    date: '2022-12-01'
+    awarder: National Mathematical Olympiad
+    icon: award
+    summary: Provincial First Prize.
+
+languages:
+  - name: Chinese
+    percent: 100
+
+  - name: English
+    percent: 85
 ---
 
 I am a third-year undergraduate student at the University of Science and Technology of China (USTC), majoring in Statistics. I possess a strong passion for machine learning and data analysis, with hands-on project experience in building predictive models and developing evaluation frameworks for Large Language Models (LLMs). Eager to leverage my quantitative skills to solve real-world problems, I am dedicated to exploring the intersection of Statistics and artificial intelligence. Outside of my academic pursuits, I am also an avid basketball player and photographer.
