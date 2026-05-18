@@ -51,9 +51,30 @@ education:
     icon: ""
     date_start: '2023-09-01'
     summary: |
-      GPA: 3.56/4.3
-      Main Course: Probability Theory, Mathematical Analysis, Linear Algebra, Mathematical Statistics, Real Analysis
+      GPA: 3.64/4.3
+      Main Course: Probability Theory, Convex Optimization, Regression Analysis, Mathematical Statistics, Linear Algebra
       Awards: Outstanding Student Scholarship (Gold Award), USTC
+
+work:
+  - position: Teaching Assistant
+    company_name: Practical Statistical Software, USTC
+    company_url: ''
+    company_logo: ''
+    date_start: '2026-02-01'
+    date_end: '2026-06-30'
+    summary: |2-
+      - Assisted in course organization, programming exercises, and students' questions on statistical software.
+      - Helped students understand practical data analysis workflows using R and related tools.
+
+  - position: Summer Research Student
+    company_name: The Hong Kong Polytechnic University
+    company_url: ''
+    company_logo: ''
+    date_start: '2026-07-01'
+    date_end: '2026-09-20'
+    summary: |2-
+      - Will participate in a summer research program related to statistics and machine learning.
+      - Expected to gain research experience through literature reading, modeling, and academic communication.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
