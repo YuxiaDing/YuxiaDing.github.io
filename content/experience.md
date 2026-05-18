@@ -17,7 +17,7 @@ sections:
 
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills, Languages & Hobbies
       username: admin
     design:
       show_skill_percentage: false
@@ -27,8 +27,4 @@ sections:
       title: Awards
       username: admin
 
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
 ---
