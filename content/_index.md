@@ -45,8 +45,9 @@ sections:
           - projects
     design:
       view: article-grid
-      columns: 3
+      columns: 2
+      fill_image: false
+      show_date: false
+      show_read_time: false
+      show_read_more: true
 ---
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
