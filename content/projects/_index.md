@@ -10,15 +10,15 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Selected course projects, research-oriented projects, and independent studies in statistics, machine learning, time series analysis.
+      text: Selected research-oriented and course projects in statistical modeling, LLM evaluation, Bayesian inference, and financial time series analysis.
       filters:
         folders:
           - projects
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
       show_date: false
       show_read_time: false
-      show_read_more: false
+      show_read_more: true
 ---

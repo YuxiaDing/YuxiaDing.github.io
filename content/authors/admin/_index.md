@@ -12,10 +12,6 @@ last_name: Ding
 # Pronouns (optional)
 pronouns: he/him
 
-# Status emoji
-status:
-  icon: 🚀
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -76,80 +72,58 @@ work:
       - Will participate in a summer research program related to statistics and machine learning.
       - Expected to gain research experience through literature reading, modeling, and academic communication.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
-      - name: Python
-        description: 'Proficient in data processing, visualization, and statistical modeling using Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.'
-        percent: 90
+      - name: Programming
+        description: R, Python, C, LaTeX
+      - name: Statistical Computing
+        description: Data cleaning, exploratory data analysis, statistical modeling, regression analysis, and simulation studies
+      - name: R Packages
+        description: dplyr, data.table, ggplot2
+      - name: Research Interests
+        description: Statistical machine learning, LLM evaluation, network analysis, and Bayesian inference
 
-      - name: R Language
-        description: 'Experienced in data cleaning, exploratory data analysis, statistical modeling, and visualization with packages such as dplyr, data.table, and ggplot2.'
-        percent: 85
-
-      - name: Data Analysis & Machine Learning
-        description: 'Project experience in data preprocessing, feature engineering, classification, logistic regression, time series analysis, and model evaluation.'
-        percent: 85
-
-      - name: C & LaTeX
-        description: 'Familiar with basic programming in C and academic writing using LaTeX.'
-        percent: 70
-
-  - name: Language Scores
+  - name: Languages
     items:
-      - name: English
-        description: 'TOEFL iBT: 102 (Reading 29, Listening 21, Speaking 27, Writing 25); CET-6: 569.'
-        percent: 90
-
-      - name: Chinese
-        description: 'Native speaker.'
-        percent: 100
+      - name: TOEFL
+        description: 102 (Reading 29, Listening 21, Speaking 27, Writing 25)
+      - name: CET-6
+        description: '569'
+      - name: CET-4
+        description: '589'
 
   - name: Hobbies
     items:
       - name: Basketball
-        description: ''
-        percent: 90
-
-      - name: Photography
-        description: ''
-        percent: 80
-
       - name: Running
-        description: ''
-        percent: 85
+      - name: Photography
+      - name: Urban transportation
 
 awards:
   - title: Outstanding Student Scholarship (Gold Award)
     date: '2024-12-01'
-    awarder: University of Science and Technology of China
-    icon: award
+    awarder: USTC
     summary: Awarded for academic performance and comprehensive excellence.
 
   - title: Freshman Scholarship
     date: '2023-12-01'
-    awarder: University of Science and Technology of China
-    icon: award
+    awarder: USTC
     summary: Awarded to outstanding first-year students.
 
-  - title: Outstanding Student Association Leader
+  - title: Outstanding Student Scholarship (Silver Award)
     date: '2025-06-01'
-    awarder: University of Science and Technology of China
-    icon: award
-    summary: Awarded for leadership and contribution to student association activities.
+    awarder: USTC
+    summary: Awarded for academic performance and comprehensive excellence.
 
   - title: Chinese Mathematics Competitions for College Students, Provincial Second Prize
     date: '2024-12-01'
     awarder: Chinese Mathematics Competitions for College Students
-    icon: award
     summary: Provincial Second Prize.
 
-  - title: National Mathematical Olympiad in Senior High School, Provincial First Prize
+  - title: National Mathematical Olympiad in Senior, Provincial First Prize
     date: '2022-12-01'
     awarder: National Mathematical Olympiad
-    icon: award
     summary: Provincial First Prize.
 
 ---
