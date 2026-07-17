@@ -40,6 +40,8 @@ interests:
   - High-dimensional statistics
   - Monte-Carlo Methods
 
+current_goals: My current goal is to strengthen my theoretical foundation in statistics while gaining more hands-on research experience through research projects, independent study, and academic training.
+
 education:
   - area: BS in Statistics
     institution: University of Science and Technology of China
