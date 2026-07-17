@@ -41,6 +41,8 @@ interests:
   - Reinforcement Learning
   - Statistics in AI
 
+current_goals: My current goal is to strengthen my theoretical foundation in statistics while gaining more hands-on research experience through course projects, independent study, and research training.
+
 education:
   - area: BS in Statistics
     institution: University of Science and Technology of China
@@ -128,4 +130,4 @@ awards:
 
 ---
 
-I am a third-year undergraduate student at the University of Science and Technology of China (USTC), majoring in Statistics. I possess a strong passion for machine learning and data analysis, with hands-on project experience in building predictive models and developing evaluation frameworks for Large Language Models (LLMs). Eager to leverage my quantitative skills to solve real-world problems, I am dedicated to exploring the intersection of Statistics and artificial intelligence. Outside of my academic pursuits, I am also an avid basketball player and photographer.
+I am a third-year undergraduate student majoring in Statistics at the University of Science and Technology of China (USTC). My current academic interests center on network analysis and Monte Carlo methods, with broader interests in high-dimensional statistics and statistical approaches to artificial intelligence. I enjoy using rigorous quantitative methods to model complex data, understand real-world systems, and develop practical statistical solutions.
