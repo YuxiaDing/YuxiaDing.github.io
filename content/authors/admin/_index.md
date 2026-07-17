@@ -19,7 +19,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 3rd-year undergraduate student at University of Science and Technology of China (USTC) majoring in statistics
+role: 4th-year undergraduate student at University of Science and Technology of China (USTC) majoring in statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -36,12 +36,11 @@ profiles:
     url: https://github.com/YuxiaDing
 
 interests:
-  - Linear Regression
+  - Network Analysis
   - High-dimensional statistics
-  - Reinforcement Learning
-  - Statistics in AI
+  - Monte-Carlo Methods
 
-current_goals: My current goal is to strengthen my theoretical foundation in statistics while gaining more hands-on research experience through course projects, independent study, and research training.
+current_goals: My current goal is to strengthen my theoretical foundation in statistics while gaining more hands-on research experience through research projects, independent study, and academic training.
 
 education:
   - area: BS in Statistics
@@ -49,9 +48,8 @@ education:
     icon: ""
     date_start: '2023-09-01'
     summary: |
-      GPA: 3.64/4.3
-      Main Course: Probability Theory, Convex Optimization, Regression Analysis, Mathematical Statistics, Linear Algebra
-      Awards: Outstanding Student Scholarship (Gold Award), USTC
+      GPA: 3.67/4.3
+      Main Course: Probability Theory, Convex Optimization, Regression Analysis, Mathematical Statistics, Nonparametric Analysis
 
 work:
   - position: Teaching Assistant
@@ -71,7 +69,7 @@ work:
     date_start: '2026-07-01'
     date_end: '2026-09-20'
     summary: |2-
-      - Will participate in a summer research program related to statistics and machine learning.
+      - Will participate in a summer research program related to network analysis and Monte-Carlo Methods.
       - Expected to gain research experience through literature reading, modeling, and academic communication.
 
 skills:
@@ -81,10 +79,8 @@ skills:
         description: R, Python, C, LaTeX
       - name: Statistical Computing
         description: Data cleaning, exploratory data analysis, statistical modeling, regression analysis, and simulation studies
-      - name: R Packages
-        description: dplyr, data.table, ggplot2
-      - name: Research Interests
-        description: Statistical machine learning, LLM evaluation, network analysis, and Bayesian inference
+      - name: Mathamatical Skills
+        description: Real Analysis, Functional Analysis
 
   - name: Languages
     items:
@@ -130,4 +126,4 @@ awards:
 
 ---
 
-I am a third-year undergraduate student majoring in Statistics at the University of Science and Technology of China (USTC). My current academic interests center on network analysis and Monte Carlo methods, with broader interests in high-dimensional statistics and statistical approaches to artificial intelligence. I enjoy using rigorous quantitative methods to model complex data, understand real-world systems, and develop practical statistical solutions.
+I am a fourth-year undergraduate student majoring in Statistics at the University of Science and Technology of China (USTC). My current academic interests center on network analysis and Monte Carlo methods, with broader interests in high-dimensional statistics and statistical approaches to artificial intelligence. I enjoy using rigorous quantitative methods to model complex data, understand real-world systems, and develop practical statistical solutions. Outside of my academic pursuits, I am also an avid basketball player and photographer.
