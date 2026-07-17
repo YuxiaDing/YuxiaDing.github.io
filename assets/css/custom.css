@@ -1,17 +1,36 @@
-/* Reduce the space below the biography section */
 .compact-biography {
-  padding-bottom: 1.5rem !important;
+  padding-bottom: 1rem !important;
 }
 
-/* Place Current Goals directly below Research Interests */
+/* Remove the gap between the two homepage sections */
 .current-goals-section {
+  margin-top: -10rem !important;
   padding-top: 0 !important;
   padding-bottom: 3rem !important;
+  position: relative;
+  z-index: 1;
 }
 
+/* Remove the narrow Markdown container restriction */
+.current-goals-section .prose,
+.current-goals-section .max-w-prose {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+/* Reproduce the two-column layout of the biography block */
 .current-goals-content {
-  max-width: 48rem;
+  width: 100%;
+  max-width: 80rem;
   margin: 0 auto;
+  padding: 0 1rem;
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+  column-gap: 2rem;
+}
+
+.current-goals-inner {
+  grid-column: 2;
 }
 
 .current-goals-heading {
@@ -52,4 +71,15 @@
   font-size: 1rem;
   line-height: 1.75rem;
   opacity: 0.85;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  .current-goals-section {
+    margin-top: -3rem !important;
+  }
+
+  .current-goals-content {
+    display: block;
+  }
 }
