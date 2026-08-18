@@ -104,11 +104,6 @@ awards:
     awarder: USTC
     summary: Awarded for academic performance and comprehensive excellence.
 
-  - title: Freshman Scholarship
-    date: '2023-12-01'
-    awarder: USTC
-    summary: Awarded to outstanding first-year students.
-
   - title: Outstanding Student Scholarship (Silver Award)
     date: '2025-06-01'
     awarder: USTC
