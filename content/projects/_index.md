@@ -10,7 +10,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Selected research-oriented and course projects in statistical modeling, LLM evaluation, Bayesian inference, and financial time series analysis.
+      text: Selected research and course projects in network analysis, Monte Carlo methods, time-series forecasting, and renewable-energy market modeling.
       filters:
         folders:
           - projects
