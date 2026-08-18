@@ -19,7 +19,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 4th-year undergraduate student at University of Science and Technology of China (USTC) majoring in statistics
+role: Final-year undergraduate student at University of Science and Technology of China (USTC) majoring in statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,7 +38,7 @@ profiles:
 interests:
   - Network Analysis
   - High-dimensional statistics
-  - Monte-Carlo Methods
+  - Monte Carlo Methods
 
 current_goals: My current goal is to strengthen my theoretical foundation in statistics while gaining more hands-on research experience through research projects, independent study, and academic training.
 
@@ -48,28 +48,28 @@ education:
     icon: ""
     date_start: '2023-09-01'
     summary: |
-      GPA: 3.67/4.3
-      Main Course: Probability Theory, Convex Optimization, Regression Analysis, Mathematical Statistics, Nonparametric Analysis
+      GPA: 3.68/4.3
+      Main Course: Mathematical Analysis, Probability Theory, Regression Analysis, Nonparametric Analysis
 
 work:
   - position: Teaching Assistant
     company_name: Practical Statistical Software, USTC
     company_url: ''
     company_logo: ''
-    date_start: '2026-02-01'
+    date_start: '2026-03-01'
     date_end: '2026-06-30'
     summary: |2-
       - Assisted in course organization, programming exercises, and students' questions on statistical software.
       - Helped students understand practical data analysis workflows using R and related tools.
 
-  - position: Summer Research Student
+  - position: Summer Research Intern
     company_name: The Hong Kong Polytechnic University
     company_url: ''
     company_logo: ''
     date_start: '2026-07-01'
     date_end: '2026-09-20'
     summary: |2-
-      - Will participate in a summer research program related to network analysis and Monte-Carlo Methods.
+      - Will participate in a summer research program related to network analysis and Monte Carlo Methods.
       - Expected to gain research experience through literature reading, modeling, and academic communication.
 
 skills:
@@ -126,4 +126,4 @@ awards:
 
 ---
 
-I am a fourth-year undergraduate student majoring in Statistics at the University of Science and Technology of China (USTC). My current academic interests center on network analysis and Monte Carlo methods, with broader interests in high-dimensional statistics and statistical approaches to artificial intelligence. I enjoy using rigorous quantitative methods to model complex data, understand real-world systems, and develop practical statistical solutions. Outside of my academic pursuits, I am also an avid basketball player and photographer.
+I am a final-year undergraduate student majoring in Statistics at the University of Science and Technology of China (USTC). My current academic interests center on network analysis and Monte Carlo methods, with broader interests in high-dimensional statistics and statistical approaches to artificial intelligence. I enjoy using rigorous quantitative methods to model complex data, understand real-world systems, and develop practical statistical solutions. Outside of my academic pursuits, I am also an avid basketball player and photographer.
